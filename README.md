@@ -1,2 +1,15 @@
 # css-demo-site
-Week 1 Challange
+## Description
+
+
+## Installation
+<!-- Installation steps -->
+
+## Usage
+<!-- How to use your project -->
+
+## Credits
+<!-- Any credits -->
+
+## License
+<!-- License info -->
